@@ -60,7 +60,7 @@ $\color{rgb(254, 130, 196)}{\textsf{H}}\color{rgb(254, 138, 191)}{\textsf{a}}\co
 - ${\color{#79bdc1}\text{Needy Streamer Overload}}$
 </details>
 
-
+It's a WIP , I'm lazy.
    
 
 
