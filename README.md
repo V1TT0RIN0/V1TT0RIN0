@@ -6,3 +6,11 @@ $\color{rgb(254, 130, 196)}{\textsf{H}}\color{rgb(254, 138, 191)}{\textsf{a}}\co
   <img src="https://y2k.neocities.org/stamps2/004.png" width="10%" alt="Banner">  <img src="https://files.catbox.moe/4qty3o.gif" width="10%" alt="Banner">
   <tr><tr>
 </div>
+‎ ‎    ‎
+‎
+
+---
+ ‎ ‎    
+ ‎    ‎ ‎ ‎      ‎ ‎ ‎    
+
+   ‎ ‎ ‎    ‎ ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎      ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎ ‎ [ʀ](https://rentry.co/-SO3)${\color{#674f3b}\text{entry}}$   ‎ ‎ ‎ [ᴀ](https://bearerofheart.atabook.org/)${\color{#362f25}\text{tabook}}$   ‎ ‎ ‎ [p](https://pronouns.cc/@VITTORINO)${\color{#776648}\text{ronouns.cc}}$
