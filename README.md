@@ -40,7 +40,7 @@ $\color{rgb(119, 104, 49)}{\textsf{───────────}}\color{rgb
 
 </p>
 <div align="center">
-  <img src="https://files.catbox.moe/fj5uqc.PNG" width="30%" alt="Banner" align="right">
+  <img src="https://files.catbox.moe/fj5uqc.PNG" width="25%" alt="Banner" align="right">
   <tr><tr>
 </div>
 
