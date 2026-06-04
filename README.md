@@ -13,10 +13,11 @@ $\color{rgb(254, 130, 196)}{\textsf{H}}\color{rgb(254, 138, 191)}{\textsf{a}}\co
    $\color{rgb(119, 104, 49)}{\textsf{⋅───⊱༺}}\color{rgb(142, 130, 100)}{\textsf{ ♰ }}\color{rgb(119, 104, 49)}{\textsf{༻⊰───⋅‎}}$ 
 </p>
 
- ‎ ‎    <p align="center">
- <img width="400" height="200" alt="IMG_2065" src="https://github.com/user-attachments/assets/beea927c-1813-4168-9d2e-6f3b366e995a" />
-<p align="center">
-
+ ‎ ‎   
+<div align="center">
+  <img src="https://files.catbox.moe/lao0xz.PNG" width="30%" alt="Banner">
+  <tr><tr>
+</div>
 
 
  ‎    ‎ ‎ ‎      ‎ ‎ ‎    
