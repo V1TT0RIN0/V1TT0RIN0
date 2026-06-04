@@ -25,6 +25,13 @@ $\color{rgb(254, 130, 196)}{\textsf{H}}\color{rgb(254, 138, 191)}{\textsf{a}}\co
    ‎ ‎ ‎    ‎ ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎      ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ ‎    ‎ ‎ ‎    ‎ [ʀ](https://rentry.co/-SO3)${\color{#674f3b}\text{entry}}$   ‎ ‎ ‎ [ᴀ](https://bearerofheart.atabook.org/)${\color{#362f25}\text{tabook}}$   ‎ ‎ ‎ [p](https://pronouns.cc/@VITTORINO)${\color{#776648}\text{ronouns.cc}}$
 
 
+<p align="center">
+${\color{#735f3c}\text{Felix}}$ ${\color{#7b3425}\text{ᵒᵘ}}$ ${\color{#807746}\text{Viktor}}$
+<p align="center">
+${\color{#735f3c}\text{⚀⚅ y.o}}$  ‎ ‎ ‎ ${\color{#7b3425}\text{He}}$ ${\color{#807746}\text{╱ Hy}}$
+<p align="center">
+${\color{#735f3c}\text{C + H welcomed}}$   ‎ ‎ ‎ ${\color{#7b3425}\text{AFK almost always}}$   ‎ ‎ ‎ ${\color{#807746}\text{W2I}}$
+
 
 <p align=center>
 $\color{rgb(119, 104, 49)}{\textsf{───────────}}\color{rgb(142, 130, 100)}{\textsf{─────────────────────}}\color{rgb(119, 104, 49)}{\textsf{───────────}}$
